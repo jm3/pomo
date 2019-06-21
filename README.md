@@ -4,4 +4,4 @@ CSS grid experiments
 
 \* final domain name TBD
 
-![screenshot](https://raw.githubusercontent.com/jm3/pomo/master/docs/pomo-comp.svg?sanitize=true&v=fcf919c)
+![screenshot](https://raw.githubusercontent.com/jm3/pomo/master/docs/pomo-mobile+web@0.5x.png)
