@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1492px" height="1154px" viewBox="0 0 1492 1154" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>pomo-comp</title>
-    <desc>Created by jm3</desc>
+<svg width="1442px" height="1060px" viewBox="0 0 1442 1060" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>pomo-comp-02</title>
+    <desc>Created with Sketch.</desc>
     <defs>
         <linearGradient x1="50%" y1="0%" x2="50%" y2="99.321685%" id="linearGradient-1">
             <stop stop-color="#444444" offset="0%"></stop>
@@ -27,10 +28,25 @@
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
         <path d="M0,210.878307 L672.878536,210.878307 L672.878536,424 L0,424 L0,210.878307 Z M0,-1.70530257e-13 L672.878536,-1.70530257e-13 L672.878536,204.708995 L0,204.708995 L0,-1.70530257e-13 Z" id="path-8"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#F7F6F7" offset="0%"></stop>
+            <stop stop-color="#D7D5D7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-11">
+            <stop stop-color="#FEFEFE" offset="0%"></stop>
+            <stop stop-color="#F2F1F2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M4,0 L765.066667,0 C767.275806,-4.05812251e-16 769.066667,1.790861 769.066667,4 L769.066667,18 C769.066667,20.209139 767.275806,22 765.066667,22 L4,22 C1.790861,22 2.705415e-16,20.209139 0,18 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="path-12"></path>
+        <filter x="-0.1%" y="-3.4%" width="100.2%" height="109.1%" filterUnits="objectBoundingBox" id="filter-13">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0.5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.650980392   0 0 0 0 0.643137255   0 0 0 0 0.650980392  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
     </defs>
-    <g id="pomo-comp" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="page-color" fill="#EB4527" x="18" y="98" width="1442" height="1023"></rect>
-        <g id="content" transform="translate(227.000000, 283.000000)">
+    <g id="pomo-comp-02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="page-color" fill="#EB4527" x="0" y="37" width="1442" height="1023"></rect>
+        <g id="content" transform="translate(209.000000, 222.000000)">
             <g id="buttons" transform="translate(216.000000, 713.000000)">
                 <g id="btn" transform="translate(419.000000, 0.000000)">
                     <g>
@@ -112,7 +128,7 @@
                 </text>
             </g>
         </g>
-        <g id="top-nav" transform="translate(18.000000, 98.000000)">
+        <g id="top-nav" transform="translate(0.000000, 37.000000)">
             <rect id="top-Nav-rect" fill="#CB3122" x="0" y="0" width="1442" height="140"></rect>
             <g id="button-group" transform="translate(1015.000000, 25.000000)">
                 <rect id="Pill---900-color" fill="#AF1F0E" opacity="0.7" x="0" y="0" width="366" height="90" rx="45"></rect>
@@ -170,6 +186,20 @@
             <text id="APP-TITLE" font-family="CactusMedium" font-size="60" font-weight="normal" fill="#FFFFFF">
                 <tspan x="75" y="100">TOMATO TIMER</tspan>
             </text>
+        </g>
+        <g id="browser">
+            <path d="M0.25,36.75 L1441.75,36.75 L1441.75,6 C1441.75,2.82436269 1439.17564,0.25 1436,0.25 L6,0.25 C2.82436269,0.25 0.25,2.82436269 0.25,6 L0.25,36.75 Z" id="Menu-Background" stroke="#C1C1C1" stroke-width="0.5" fill="url(#linearGradient-10)"></path>
+            <path d="M61.9342516,24.75 C65.1098889,24.75 67.6842516,22.1756373 67.6842516,19 C67.6842516,15.8243627 65.1098889,13.25 61.9342516,13.25 C58.7586143,13.25 56.1842516,15.8243627 56.1842516,19 C56.1842516,22.1756373 58.7586143,24.75 61.9342516,24.75 Z M41.9342516,24.75 C45.1098889,24.75 47.6842516,22.1756373 47.6842516,19 C47.6842516,15.8243627 45.1098889,13.25 41.9342516,13.25 C38.7586143,13.25 36.1842516,15.8243627 36.1842516,19 C36.1842516,22.1756373 38.7586143,24.75 41.9342516,24.75 Z M21.9342516,24.75 C25.1098889,24.75 27.6842516,22.1756373 27.6842516,19 C27.6842516,15.8243627 25.1098889,13.25 21.9342516,13.25 C18.7586143,13.25 16.1842516,15.8243627 16.1842516,19 C16.1842516,22.1756373 18.7586143,24.75 21.9342516,24.75 Z" id="Menu-Buttons" stroke="#6E6E71" stroke-width="0.5" fill="#909095"></path>
+            <g id="Menu-Address-Bar" transform="translate(338.389333, 8.000000)">
+                <g id="Address-Bar-Background">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-13)" xlink:href="#path-12"></use>
+                    <path stroke="#D2D0D2" stroke-width="0.5" d="M4,-0.25 L765.066667,-0.25 C767.413877,-0.25 769.316667,1.65278981 769.316667,4 L769.316667,18 C769.316667,20.3472102 767.413877,22.25 765.066667,22.25 L4,22.25 C1.65278981,22.25 -0.25,20.3472102 -0.25,18 L-0.25,4 C-0.25,1.65278981 1.65278981,-0.25 4,-0.25 Z" fill="url(#linearGradient-11)" fill-rule="evenodd"></path>
+                </g>
+                <path d="M759.036301,7.65909901 C758.070905,6.77163252 756.784035,6.22872587 755.372521,6.22872587 C752.384313,6.22872587 749.953209,8.65982912 749.953209,11.6480376 C749.953209,14.6362461 752.384313,17.0673493 755.372521,17.0673493 C756.864241,17.0673493 758.216901,16.4614703 759.197797,15.4829594 L758.125315,14.4104776 C757.419179,15.114121 756.445762,15.5499421 755.372521,15.5499421 C753.220946,15.5499421 751.470617,13.7996128 751.470617,11.6480376 C751.470617,9.49646246 753.220946,7.74613316 755.372521,7.74613316 C756.365773,7.74613316 757.272857,8.11974051 757.96241,8.73298983 L756.435817,10.2595828 L761.663651,11.3276073 L760.595627,6.09977335 L759.036301,7.65909901 Z" id="Reload-Icon" fill="#999999" fill-rule="nonzero" transform="translate(755.808430, 11.583561) rotate(-45.000000) translate(-755.808430, -11.583561) "></path>
+                <text id="Website" font-family="HelveticaNeue, Helvetica Neue" font-size="13" font-weight="normal" fill="#0D0B00">
+                    <tspan x="367.073" y="15">gungis</tspan>
+                </text>
+            </g>
         </g>
     </g>
 </svg>
