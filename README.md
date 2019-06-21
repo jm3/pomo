@@ -1,6 +1,7 @@
 # Tomato Timer\*
 
-CSS grid experiments
+* CSS grid experiments
+* bundled with Parcel.js
 
 \* final domain name TBD
 

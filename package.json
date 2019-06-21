@@ -1,0 +1,11 @@
+{
+  "name": "pomo",
+  "version": "0.0.1",
+  "main": "index.html",
+  "author": "jm3 <root@heavylifter.bignuts.mil>",
+  "repository": "github:jm3/pomo",
+  "license": "GPL-3.0",
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
