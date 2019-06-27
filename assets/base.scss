@@ -1,13 +1,12 @@
 @import "./fonts.css";
+@import "./layout.css";
+@import "./type.css";
+@import "./colors.css";
 
 body {
-  background-color: hsl(6, 62%, 49%);
-  color: white;
-  text-transform: uppercase;
-  font-family: "cactus-light";
 
   /* just testing that scss is pre-processing */
-  .nested {
+  span {
     color: black;
   }
 }
