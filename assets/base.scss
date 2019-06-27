@@ -1,8 +1,21 @@
-* {
+@import "./fonts.css";
+
+body {
   background-color: hsl(6, 62%, 49%);
   color: white;
   text-transform: uppercase;
+  font-family: "cactus-light";
+
+  /* just testing that scss is pre-processing */
   .nested {
     color: black;
   }
+}
+
+:root {
+  font-size: 22px;
+}
+
+h1 {
+  font-size: 2rem;
 }

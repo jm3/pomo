@@ -1,15 +1,15 @@
 @font-face {
   font-family: 'cactus-light';
-  src: url('cactus-light.woff2') format('woff2'),
-       url('cactus-light.woff') format('woff');
+  src: url('/assets/fonts/cactus-light.woff2') format('woff2'),
+       url('/assets/fonts/cactus-light.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'cactus-medium';
-  src: url('cactus-medium.woff2') format('woff2'),
-       url('cactus-medium.woff') format('woff');
+  src: url('/assets/fonts/cactus-medium.woff2') format('woff2'),
+       url('/assets/fonts/cactus-medium.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
