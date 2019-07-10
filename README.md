@@ -12,6 +12,10 @@ productivity timer.
     yarn # or alternately: npm install
     npm start
 
+## WARN
+
+- scss parsing triggered by the include in index.js - including in HTML not necessary / doesn't run scss
+
 ## TECH
 
 Uses:
@@ -19,6 +23,7 @@ Uses:
 - [Parcel][parcel] for asset bundling, live-reload, and minification
 - [Pug][pug] for templating
 - Stylelint for style pruning
+- SCSS for now... (but maybe soon PostCSS?)
 
 ## HUMANS.TXT
 
