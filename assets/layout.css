@@ -7,6 +7,14 @@
  *             |___/
  */
 
+* {
+  margin: 0;
+}
+
 header {
   padding: 1rem;
+}
+
+main {
+  display: grid;
 }
