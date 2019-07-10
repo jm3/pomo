@@ -15,14 +15,20 @@ html(lang="")
 
     main
       header
-        h1 
-          | no fate 
-          span but what we make for ourselves
+        // do we need these sections? maybe  simplify the dom, use just headings and/or class-names
+        section
+          h1
+            | Pomo
+            span.separator •
+            span A tomato timer
+        section
+          h2 Because productive doesn’t have to mean ugly
+        nav 🍔
 
-    section
-      | NO FATE
+      section
+        | NO FATE
 
-    footer
-      | show feet
+      footer
+        | show feet
 
     script(src="index.js")
