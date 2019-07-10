@@ -1,16 +1,17 @@
 {
   "name": "pomo",
   "version": "0.0.1",
-  "main": "index.html",
+  "main": "index.pug",
   "author": "jm3 <root@heavylifter.bignuts.mil>",
   "repository": "github:jm3/pomo",
   "license": "GPL-3.0",
   "scripts": {
-    "build": "npx parcel build index.html",
-    "start": "parcel index.html"
+    "build": "npx parcel build index.pug",
+    "start": "parcel index.pug"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.3",
+    "pug": "^2.0.4",
     "sass": "^1.22.1"
   }
 }
