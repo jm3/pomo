@@ -1,11 +1,25 @@
 doctype html
 html(lang="")
   head
+    title Pomo 🍅 jm3.net × Because productive doesn't mean ugly
     // ...
-    link(rel="stylesheet", href="assets/base.scss")
+    link(rel="stylesheet" href="assets/base.scss")
+    meta(property="og:description"
+      content="CSS Grid experiments masquerading as a Pomodoro method tomato timer")
+    meta(property="og:image"
+      content="https://raw.githubusercontent.com/jm3/pomo/master/docs/pomo-mobile+web@0.5x.png")
+    meta(property="og:title" content="Pomo")
+    meta(property="og:type" content="website")
+    meta(property="og:url" content="https://pomo.jm3.net/")
   body
-    h1 
-      | no fate 
-      span but what we make for ourselves
+    main
+      header
+        h1 
+          | no fate 
+          span but what we make for ourselves
+    section
+      | NO FATE
+    footer
+      | show feet
 
     script(src="index.js")
