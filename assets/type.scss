@@ -14,11 +14,37 @@
   font-size: 22px;
 }
 
-h1 {
-  font-size: 2rem;
+@import url('https://fonts.googleapis.com/css?family=Raleway:700&display=swap');
+
+header {
+
+  section h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 19px;
+    margin: 8px 0 0 10px;
+    line-height: 1.07em;
+  }
+
+  span {
+    letter-spacing: -1.5px;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  nav {
+    line-height: 2.6em;
+  }
 }
 
 body {
   text-transform: uppercase;
   font-family: "cactus-light";
+}
+
+.separator { // precise positioning
+  font-size: 1rem;
+  vertical-align: middle;
+  padding: 0 8px 10px 8px;
 }

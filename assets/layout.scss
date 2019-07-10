@@ -13,8 +13,27 @@
 
 header {
   padding: 1rem;
+  display: flex;
+
+  // section:first-of-type {
+  //   border: 1px dotted green;
+  // }
+  // section:nth-of-type(2) {
+  //   border: 1px dotted white;
+  // }
+
+  section h2 {
+    width: 15rem;
+  }
+
+  nav {
+    border-radius: 4em;
+    padding: 0 1em;
+  }
+
 }
 
 main {
   display: grid;
+  grid-template-rows: 200px, 1fr, 100px;
 }
