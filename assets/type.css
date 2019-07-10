@@ -10,6 +10,14 @@
  *
  */
 
+:root {
+  font-size: 22px;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
 body {
   text-transform: uppercase;
   font-family: "cactus-light";

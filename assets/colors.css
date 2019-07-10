@@ -15,3 +15,7 @@ body {
   background-color: hsl(9, 76%, 52%); // tomato red
   color: white;
 }
+
+header {
+  background-color: hsl(8.6, 80%, 40%);
+}
