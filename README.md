@@ -1,5 +1,13 @@
 # Tomato Timer\*
 
+## SETUP
+
+    yarn # or alternately: npm install
+
+    npm start
+
+## HUMANS.TXT
+
 * CSS grid experiments
 * bundled with Parcel.js
 
