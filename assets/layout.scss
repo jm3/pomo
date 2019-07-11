@@ -7,6 +7,51 @@
  *             |___/
  */
 
+@media (min-width:20em) and (max-width:30em) {
+  body::before {
+    background-color: blue;
+    content: "20 - 30em";
+  }
+}
+
+@media (min-width:30em) and (max-width:40em) {
+  body::before {
+    background-color: green;
+    content: "30 - 40em";
+  }
+}
+
+
+@media (min-width:40em) and (max-width:50em) {
+  body::before {
+    background-color: orange;
+    content: "40 - 50em";
+  }
+}
+
+@media (min-width:50em) and (max-width:60em) {
+  body::before {
+    background-color: purple;
+    content: "50 - 60em";
+  }
+}
+
+@media (min-width:60em) {
+  body::before {
+    background-color: coral;
+    content: "60em +";
+  }
+}
+
+body::before {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 0.6em 1em;
+  font-size: 1.5rem;
+  color: white;
+}
+
 * {
   margin: 0;
 }
