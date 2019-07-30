@@ -1,5 +1,7 @@
 # Pomo - a better tomato timer
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jm3/pomo.svg)](https://greenkeeper.io/)
+
 ## “Because productive doesn’t have to mean ugly”
 
 [This project][url] is a CSS Grid experiment doing double duty as a
